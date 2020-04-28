@@ -1,2 +1,1 @@
-# cmsi186-lab-0
-a very easy lab
+In this lab, I created a program that simply demonstrates my ability to create a main method and be able to compile a program and run it in the language of Java. In this program, it prints and confirms my understanding of this based on when I was able to finish the program and lab.
